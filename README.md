@@ -1,1 +1,2 @@
-# INSY662-DataMining-FinalProject
+# Higher Education Graduation and Dropout Rate Analysis
+This project analyzed and presented recommendations for improving university graduation rates while reducing dropout rates, in alignment with the goals set forth by the Portugal University Board. By evaluating key factors influencing student success and retention, such as academic performance, socio-economic background, and institutional support systems, the project provided actionable insights and strategies to enhance higher education outcomes and increase the number of graduates within the Portuguese university system.
